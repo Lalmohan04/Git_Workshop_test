@@ -29,12 +29,10 @@ The below question should be answered within 30 words and your explaination.
 
 6. How  "git" and "Git hub" are different (explain as if you are explaining to your friend)
 
-Git is source control system for a single developer installed on a developer desktop.  Git allows you to version your changes to files.  Any files can be versioned with Git, but it is typically used to version source code. 
-its in local system 
 
-Github is a shared repository where multiple developers synchronize their changes.  GitHub allows hundreds of developers all over the world work together on a single project and is the most popular open source code management platform available. its in cloud/ website 
 
-Git allows a developer to manage file versions through commits and merges. Github allows developers to commit and merge changes in centralized repository and work as teams on a single software project.  So a question like Git vs Github is best answered by explaining their different roles and how Git and Github work together.
+Git allows a developer to manage file versions through commits and merges. Github allows developers to commit and merge changes in centralized repository and work as teams on a single software project.  So a question like Git vs Github is best answered by explaining their different roles and how Git and Github work together.its in local system 
+
 
 "Git" is a distributed version control system for tracking changes in source code, enabling collaboration.
-"GitHub" is a web-based platform that uses Git for version control and provides additional features like hosting repositories, collaboration tools, and more.
+"GitHub" is a web-based platform that uses Git for version control and provides additional features like hosting repositories, collaboration tools, and more. its in cloud/ website
