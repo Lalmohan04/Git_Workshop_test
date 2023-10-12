@@ -1,15 +1,14 @@
 1.   What is the command for making new directory ?
-      cd disk name
-      cd d 
-     directory will go to d disk
+      mkdir filename 
+      will create new file 
 
 2.   Command to see hidden files present in a directory ? 
-    ls 
-"ls is code to hidden files 
+    ls -a
+ls -a will list all files including hidden files
  for example 
 cd c 
 we will reach c disk 
-ls enter 
+ls -a enter 
 user 
 profile 
 all the files will open 
@@ -19,8 +18,8 @@ all the files will open
       initialize an existing directory as a Git repository
 
 4.   Command for creating a new file with git bash terminal?
-           git add [file]
- add a file as it looks now to your next commit (stage)
+       
+ touch filename.
 
 5.   Command for opening the file in git bash ?
      cat 
@@ -36,3 +35,6 @@ its in local system
 Github is a shared repository where multiple developers synchronize their changes.  GitHub allows hundreds of developers all over the world work together on a single project and is the most popular open source code management platform available. its in cloud/ website 
 
 Git allows a developer to manage file versions through commits and merges. Github allows developers to commit and merge changes in centralized repository and work as teams on a single software project.  So a question like Git vs Github is best answered by explaining their different roles and how Git and Github work together.
+
+"Git" is a distributed version control system for tracking changes in source code, enabling collaboration.
+"GitHub" is a web-based platform that uses Git for version control and provides additional features like hosting repositories, collaboration tools, and more.
