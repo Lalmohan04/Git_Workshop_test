@@ -1,9 +1,36 @@
 1.   What is the command for making new directory ?
-2.   Command to see hidden files present in a directory ?
+      cd disk name
+      cd d 
+     directory will go to d disk
+
+2.   Command to see hidden files present in a directory ? 
+    ls 
+"ls is code to hidden files 
+ for example 
+cd c 
+we will reach c disk 
+ls enter 
+user 
+profile 
+all the files will open 
+     
 3.   Command to initialize git in a directory for the first time ?
+       git init
+      initialize an existing directory as a Git repository
+
 4.   Command for creating a new file with git bash terminal?
+           git add [file]
+ add a file as it looks now to your next commit (stage)
+
 5.   Command for opening the file in git bash ?
+     cat 
 
 The below question should be answered within 30 words and your explaination.
 
+
 6. How  "git" and "Git hub" are different (explain as if you are explaining to your friend)
+
+Git is source control system for a single developer installed on a developer desktop.  Git allows you to version your changes to files.  Any files can be versioned with Git, but it is typically used to version source code. 
+its in local system
+
+Github is a shared repository where multiple developers synchronize their changes.  GitHub allows hundreds of developers all over the world work together on a single project and is the most popular open source code management platform available. its in cloud
